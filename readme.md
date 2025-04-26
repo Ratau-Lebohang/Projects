@@ -35,8 +35,8 @@ I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data V
 
 <div align="center">
 
-![Ratau_Lebohang GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Ratau_Lebohang GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratau_Lebohang&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratau_Lebohang&layout=compact&theme=tokyonight)
 
 </div>
 
