@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lebohang
 
-Welcome to my GitHub!  
+
 I'm a **Data Analyst** and **Business Intelligence Enthusiast** who thrives on turning complex data into powerful insights.  
 I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data Visualization**, and **Storytelling** to drive informed decision-making.
 
@@ -11,8 +11,7 @@ I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data V
 - 📊 Passionate about transforming raw data into strategic insights
 - 🛠️ Skilled in real-world analytics, reporting, and dashboard building
 - 🎯 Driven by curiosity, creativity, and continuous learning
-- 🎨 Outside of work, you'll find me choreographing dynamic dance moves, conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! Life is my playground, and creativity is my fuel!
-
+- 🎨 Outside of work, you'll find me choreographing dynamic dance moves, conquering hiking trails like a true adventurer, and getting lost in books that keep my mind sharp and inspired! 
 ---
 
 ## 🛠️ Tech Stack
@@ -28,14 +27,6 @@ I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data V
 
 ## 📁 Featured Projects
 
-| Project | Description |
-|:---|:---|
-| **Top Street Food Analysis** 🍢 | Analyzing global street food trends |
-| **Global Food Wastage Analytics** 🌎 | Uncovering key wastage patterns and insights |
-| **Retail Sales & Customer Insights** 🛒 | Deep dive into customer behavior and retail strategies |
-| **Employee Attrition Analysis** 🧑‍💼 | Predicting employee turnover factors |
-| **Global Product Inventory Management** 📦 | Managing supply chain data and inventory trends |
-
 🔗 *Explore my full portfolio here: [Portfolio Repository](https://github.com/yourusername/yourportfolio)*
 
 ---
@@ -49,31 +40,14 @@ I specialize in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Data V
 
 </div>
 
----
 
-## 🌟 Extra Skills
-
-- Data Visualization & Storytelling
-- Business Intelligence Reporting
-- Analytical Thinking & Problem Solving
-- Project Management & Workflow Organization
-- Research & Data Exploration
-
----
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinprofile)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
----
-
-## 📍 Profile Visitors
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
----
 
 # 🏆 Thank you for visiting my profile!
 
-> *Let's turn data into decisions, and insights into impact.* 🚀
+
