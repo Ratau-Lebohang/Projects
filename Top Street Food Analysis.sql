@@ -103,4 +103,7 @@ FROM
 GROUP BY
     `Serving Type`
 ORDER BY
+
     Popularity DESC;
+
+---END
